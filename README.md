@@ -1,5 +1,7 @@
 # README #
 
+Updated directly via Github
+
 Important steps for git workflow:
 
 1. Initialize repository with git init
