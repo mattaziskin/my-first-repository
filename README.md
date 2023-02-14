@@ -1,6 +1,8 @@
 # README #
 
-Updated directly via Github
+
+
+Attempting to switch to SSH
 
 Important steps for git workflow:
 
